@@ -10,12 +10,15 @@ Before you run this project, ensure you have Python installed on your system. Th
 
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/face-recognition-opencv.git cd face-recognition-opencv
+```
+git clone https://github.com/yourusername/face-recognition-opencv.git
+cd face-recognition-opencv
+```
 
 Install the necessary Python packages:
-
+```
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
